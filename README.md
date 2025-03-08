@@ -1,4 +1,4 @@
-# MyPass - Şifre Yöneticisi
+# MyPass V3 - Şifre Yöneticisi
 
 MyPass, şifrelerinizi güvenli bir şekilde yönetmenizi sağlayan bir uygulamadır. Şifrelerinizi güvenli bir şekilde saklar, yeni güçlü şifreler oluşturur ve gerektiğinde kolayca erişmenizi sağlar.
 
